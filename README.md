@@ -1,17 +1,22 @@
-#
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=NAGenaev&theme=radical&show_icons=true" />
+<h1 align="center">NAGenaev</h1>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAGenaev&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NAGenaev&theme=sea&show_icons=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAGenaev&theme=sea" width="48%"/>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAGenaev&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAGenaev&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAGenaev&theme=sea&langs_count=10&layout=compact" width="30%"/>
+</p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAGenaev&theme=radical&langs_count=10&layout=compact" />
+---
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-## Connect with me:
-
-[<img align="left" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][telegram]
-[<img align="left" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png"/>][instagram]
-
-[telegram]: https://t.me/NAGenaev
-[instagram]: https://www.instagram.com/devops777/
+<p>
+  <a href="https://t.me/NAGenaev" target="_blank">
+    <img align="left" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/777devops/" target="_blank">
+    <img align="left" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" alt="Instagram" />
+  </a>
+</p>

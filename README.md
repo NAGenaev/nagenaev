@@ -1,12 +1,10 @@
-<h1 align="center">NAGenaev</h1>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NAGenaev&theme=sea&show_icons=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAGenaev&theme=sea" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAGenaev&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAGenaev&theme=transparent" width="66%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAGenaev&theme=sea&langs_count=10&layout=compact" width="30%"/>
 </p>
 

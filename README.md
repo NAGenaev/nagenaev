@@ -1,3 +1,4 @@
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NAGenaev&theme=sea&show_icons=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAGenaev&theme=sea" width="48%"/>

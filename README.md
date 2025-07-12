@@ -1,7 +1,7 @@
 #
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAGenaev&theme=transparent&show_icons=true" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAGenaev&theme=transparent" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NAGenaev&theme=transparent&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAGenaev&theme=transparent" width="51%" />
 </p>
 
 <p align="left">

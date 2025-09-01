@@ -13,5 +13,5 @@
 [<img align="center" width="20px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][telegram]
 [<img align="center" width="20px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png"/>][instagram]
 
-[telegram]: https://t.me/NAGenaev
+[telegram]: https://t.me/NGenaev
 [instagram]: https://www.instagram.com/777devops/
